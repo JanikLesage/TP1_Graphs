@@ -1,0 +1,15 @@
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\bin\Debug\net6.0\Graphs.exe
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\bin\Debug\net6.0\Graphs.deps.json
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\bin\Debug\net6.0\Graphs.runtimeconfig.json
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\bin\Debug\net6.0\Graphs.dll
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\bin\Debug\net6.0\Graphs.pdb
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\Graphs.csproj.AssemblyReference.cache
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\Graphs.AssemblyInfoInputs.cache
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\Graphs.AssemblyInfo.cs
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\Graphs.dll
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\refint\Graphs.dll
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\Graphs.pdb
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\Graphs.genruntimeconfig.cache
+C:\Users\mrjan\OneDrive - Université du Québec à Trois-Rivières\Bureau\École\University\Mathématiques pour informaticiens I\TP1\TP1_Graphs\Program\Graphs\Graphs\obj\Debug\net6.0\ref\Graphs.dll

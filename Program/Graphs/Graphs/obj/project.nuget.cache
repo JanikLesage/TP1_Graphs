@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpKFkH12pQJXNTkTMY1KriM0+ODX7bJrc8Z0Ci4MjSc3beSRfdjV4AnED0rlDT5FA2x3p+9Uw1J2MxMC78LBmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrjan\\OneDrive - Université du Québec à Trois-Rivières\\Bureau\\École\\University\\Mathématiques pour informaticiens I\\TP1\\TP1_Graphs\\Program\\Graphs\\Graphs\\Graphs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrjan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\mrjan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\mrjan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\mrjan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
